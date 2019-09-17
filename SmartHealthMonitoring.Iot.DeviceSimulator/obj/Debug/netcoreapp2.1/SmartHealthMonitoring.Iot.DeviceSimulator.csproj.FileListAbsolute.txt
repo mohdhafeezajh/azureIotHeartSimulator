@@ -1,0 +1,16 @@
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.csprojAssemblyReference.cache
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.csproj.CoreCompileInputs.cache
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.AssemblyInfoInputs.cache
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.AssemblyInfo.cs
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.deps.json
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.runtimeconfig.json
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.runtimeconfig.dev.json
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.dll
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.pdb
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.dll
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.dll
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.pdb
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.pdb
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.csproj.CopyComplete
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.dll
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.DeviceSimulator\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.DeviceSimulator.pdb

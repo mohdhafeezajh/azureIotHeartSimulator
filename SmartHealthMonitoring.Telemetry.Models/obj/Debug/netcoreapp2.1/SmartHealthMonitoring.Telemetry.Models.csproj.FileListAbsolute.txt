@@ -1,0 +1,8 @@
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Telemetry.Models\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.deps.json
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Telemetry.Models\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.dll
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Telemetry.Models\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.pdb
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Telemetry.Models\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.csproj.CoreCompileInputs.cache
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Telemetry.Models\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.AssemblyInfoInputs.cache
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Telemetry.Models\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.AssemblyInfo.cs
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Telemetry.Models\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.dll
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Telemetry.Models\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.pdb

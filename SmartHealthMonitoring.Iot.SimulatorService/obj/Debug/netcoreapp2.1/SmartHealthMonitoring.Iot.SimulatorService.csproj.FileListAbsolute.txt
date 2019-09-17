@@ -1,0 +1,12 @@
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.deps.json
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.dll
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.pdb
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.dll
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\bin\Debug\netcoreapp2.1\SmartHealthMonitoring.Telemetry.Models.pdb
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.csprojAssemblyReference.cache
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.csproj.CoreCompileInputs.cache
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.AssemblyInfoInputs.cache
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.AssemblyInfo.cs
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.csproj.CopyComplete
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.dll
+C:\Hafeez\DevPlayGround\SmartHealthMonitoring\SmartHealthMonitoring.Iot.SimulatorService\obj\Debug\netcoreapp2.1\SmartHealthMonitoring.Iot.SimulatorService.pdb
