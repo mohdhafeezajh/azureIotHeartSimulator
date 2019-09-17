@@ -1,3 +1,4 @@
 **/.vs/*
 SmartHealthMonitoring.Iot.DeviceSimulator/Helpers/Constants.cs
 bin/
+/obj/Debug/
